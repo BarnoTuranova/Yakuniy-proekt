@@ -1,0 +1,514 @@
+.bg{
+    background-color: #cce5ff;
+}
+.inp{
+    width: 40%;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.column{
+    column-gap: 70px;
+    column-rule: 5px solid #7fcd9b;
+    column-width: 300px;
+}
+.success{
+    background-color: #20c997;
+}
+.posr1{
+    position: relative;
+    left: 290px;
+}
+.posr{
+    position: relative;
+    left: 450px;
+}
+.barnos1{
+    column-gap: 100px;
+    column-rule: 5px solid white;
+    column-width: 300px;
+}
+.auqa{
+    color: #03f1b9;
+}
+.por{
+    position: relative;
+    right: 100px;
+    box-shadow: 10px 10px 10px 0 gray;
+    height: 200px;
+    top: 40px;
+}
+.por1{
+    position: relative;
+    left: 80px;
+    box-shadow: 10px 10px 10px 0 gray;
+    height: 200px;
+    top: 40px;
+}
+.sub{
+    position: relative;
+    left: 300px;
+    bottom: 20px;
+}
+.po{
+    position: relative;
+    top: 40px;
+    left: 50px;
+    font-weight: bold;
+}
+.sem{
+    position: relative;
+    width: 500px;
+    left: 50px;
+    top: 50px;
+}
+.perhaou{
+    font-size: 30px;
+    position: relative;
+    left: 280px;
+}
+.chiz{
+    border: 1px solid #e3e0e0;
+
+}
+.img{
+    position: relative;
+    right: 5px;
+    width:150px;
+}
+.iki{
+    margin-right: 250px;
+    position: relative;
+    left: 180px;
+}
+.uch{
+    margin-right: 250px;
+    position: relative;
+    left: 50px;
+}
+.tor1{
+    margin-left: 250px;
+    position: relative;
+
+}
+.br{
+    margin-right: 250px;
+    position: relative;
+
+}
+.brow{
+    background-color: saddlebrown;
+    color: white;
+
+}
+.shop{
+    position: absolute;
+    left: 900px;
+}
+.inouut {
+    position: relative;
+    right: 300px;
+}
+.yure1{
+    position: absolute;
+ bottom: 40px;
+}
+
+.but{
+    position: relative;
+    left: 200px;
+    bottom: 40px;
+}
+.mr10{
+    position: absolute;
+    right: 70px;
+}
+.weight{
+    position: relative;
+    left: 300px;
+}
+.dan{
+    position: relative;
+    left: 180px;
+    bottom: 120px;
+}
+.dan1{
+    position: relative;
+    left: 180px;
+    bottom: 120px;
+}
+.duo{
+    position: relative;
+    top: 50px;
+}
+.dou{
+    position: relative;
+    left: 650px;
+    bottom: 50px;
+}
+.dyu{
+    position: relative;
+    left: 250px;
+    bottom: 10px;
+}
+.danger{
+    background-color: rgb(205, 97, 101);
+    color: aliceblue;
+}
+.hey{
+    position: relative;
+    bottom: 40px;
+    left: 120px;
+}
+.odam{
+    position: relative;
+    left: 300px;
+    bottom: 45px;
+}
+.gaas{
+    height: 3px;
+}
+.mtu{
+    position: absolute;
+    top: 20px;
+    font-size: 30px;
+}
+.returm{
+    margin-left: 210px;
+}
+.returm1{
+    margin-left: 210px;
+    margin-bottom: 20px;
+}
+.butt{
+    position: relative;
+    left: 150px;
+    bottom: 60px;
+}
+.sale{
+    background-color: rgb(99, 91, 76);
+    width: 50px;
+    color: white;
+    height: 30px;
+}
+.per{
+    background-color: aquamarine;
+    width: 40px;
+    height: 30px;
+    color: white;
+   position: relative;
+   left: 213px;
+   bottom: 30px;
+}
+.roun{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+.ml-50{
+    margin-left: 20px;
+}
+.ml-51{
+    margin-bottom: 20px;
+}
+iframe{
+    width: 1000px;
+    
+}
+.eyy{
+    position: relative;
+    left: 400px;
+    top: 40px;
+}
+.wor{
+    margin-top: 350px;
+    position: absolute;
+    width: 1780px;
+}
+.iki1{
+    margin-right: 250px;
+    position: relative;
+
+    
+}
+.uch1{
+    position: relative;
+
+}
+.tor11{
+    margin-left: 250px;
+    position: relative;
+    left: 400px;
+}
+.br1{
+    margin-right: 250px;
+    position: relative;
+    right: 350px;
+}
+.kal{
+    position: relative;
+    left: 90px;
+}
+.kal1{
+    position: relative;
+    left: 90px;
+    bottom: 43px;
+}
+.bingo{
+    color: palevioletred;
+}
+.text{
+    color: rgb(85, 85, 85);
+}
+.hr{
+    width: 120px;
+    height: 150px;
+    position: relative;
+    right: 100px;
+    color: black;
+}
+.lingo{
+    position: relative;
+    top: 130px;
+    left: 40px;
+}
+.me{
+    position: relative;
+    top: 50px;
+}
+.pro{
+    position: relative;
+    top: 330px;
+    left: 130px;
+}
+.love{
+    color: rgb(121, 88, 88);
+}
+.warning{
+    background-color: rgb(251, 247, 199);
+}
+.catag{
+    background-color: rgb(250, 204, 210);
+}
+.plus{
+    position: relative;
+    left: 330px;
+    bottom: 30px;
+}
+.stylish{
+    color: palevioletred;
+    position: relative;
+    left: 40px;
+}
+.user{
+    position: relative;
+    left: 40px;
+}
+.combo{
+    color: palevioletred;
+}
+.dol{
+  text-decoration: line-through;
+}
+.tosh{
+    position: relative;
+    left: 150px;
+}
+.sum{
+    position: relative;
+    
+}
+.butt1{
+    position: absolute;
+    left: 100px; 
+    bottom: 45px;
+}
+.rasm{
+    position: relative;
+    right: 20px;
+}
+.foiz{
+    color: #03f1b9;
+}
+.haw{
+    position: absolute;
+    left: 160px;
+}
+.baby{
+    position: relative;
+    left: 270px;
+    bottom: 300px;
+}
+.rust{
+    position: relative;
+    bottom: 200px;
+}
+.dangero{
+    color: rgb(204, 107, 107);
+    position: relative;
+    left: 580px;
+}
+.new{
+    position: relative;
+    left: 450px;
+}
+.shoppi{
+    background-color: palevioletred;
+}
+.posit{
+    position: relative;
+    left: 460px;
+}
+.posit1{
+    position: relative;
+    left: 580px;
+}
+.ey{
+    position: relative;
+    bottom: 170px;
+}
+.span{
+    position: relative;
+    top: 50px;
+}
+.tep{
+    position: relative;
+    bottom: 50px;
+}
+.feat{
+    position: relative;
+    left: 80px;
+    background-color: #20c997;
+    color: white;
+}
+.best{
+    position: relative;
+    left: 170px;
+}
+.prod{
+    position: relative;
+    left: 100px;
+}
+.border{
+border: 1px solid rgb(189, 188, 188);
+}
+.uf{
+    position: relative;
+    bottom: 100px;
+}
+.the{
+    background-color: #cce5ff;
+}
+.bomba{
+    bottom: 100px;
+    position: relative;
+    right: 80px;
+}
+
+.textu{
+    color: rgb(83, 83, 83);
+}
+.uchq{
+    position: relative;
+    left: 80px;
+}
+.youuu{
+    position: relative;
+    left: 60px;
+}
+.ou{
+    position: relative;
+    left: 100px;
+}
+.yoge{
+    position: relative;
+    left: 330px;
+    bottom: 2030px;
+}
+.des{
+    background-color: #20c997;
+}
+.dole{
+    color: #20c997;
+}
+.add{
+    background-color: palevioletred;
+}
+.tepe{
+    position: relative;
+    top: 50px;
+    width: 200px;
+    border: 1px solid white;
+}
+.la{
+    position: relative;
+    right: 130px;
+}
+.la2{
+    position: relative;
+    right: 180px;
+}
+.jr{
+    position: relative;
+    right: 25px;
+}
+.tep{
+    border: 1px solid white;
+}
+.home{
+    position: relative;
+    bottom: 450px;
+    width: 970px;
+    right: 17px;
+    background-color: white;
+}
+.stor{
+    position: relative;
+    left: 380px;
+}
+.imgt{
+    position: relative;
+    
+}
+.heyo{
+    background-image: url(../e-Commerce/images/color_body_bg_image.jpg);
+    background-size: 100%;
+    height: 3000px;
+}
+.hom{
+    position: relative;
+    top: 200px;
+}
+.plus1{
+    position: relative;
+    left: 310px;
+    bottom: 30px;
+}
+.rad{
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 15px;
+    height: 20px;
+}
+.orange{
+    background-color: orange;
+}
+.pink{
+    background-color: palevioletred;
+}
+.brown{
+    background-color: brown;
+}
+.vou{
+    position: relative;
+    left: 180px;
+    bottom: 40px;
+}
+.vou1{
+    position: relative;
+    left: 400px;
+    bottom: 80px;
+}

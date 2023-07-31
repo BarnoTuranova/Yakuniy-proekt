@@ -1,0 +1,96 @@
+.cap{
+    margin-left: 300px;
+}
+.card:hover{
+    box-shadow: 5px 5px 10px 5px  rgb(174, 174, 174);
+}
+.wero{
+    position: relative;
+    left: 550px;
+    bottom: 150px;
+}
+.barnoyu{
+    background: linear-gradient( 250deg, white,green);
+}
+.novo{
+    position: relative;
+    bottom: 270px;
+}
+.noun{
+    border-radius: 15px;
+}
+.mol{
+    margin-left: 50px;
+}
+.vou{
+    position: relative;
+    right: 200px;
+    bottom: 50px;
+}
+.position{
+    position: relative;
+    right: 200px;
+}
+.boy{
+    height: 100px;
+    width: 15px;
+    font-size: 40px;
+    line-height: 100px;
+    font-family: "Berlin Sans FB Demi";
+}
+.jad{
+    border-radius: 15px;
+}
+.jok{
+    position: relative;
+    left: 50px;
+}
+.ex{
+    position: relative;
+    bottom: 120px;
+}
+.on{
+    width: 50px;
+    background-color: blue;
+    border: 1px solid blue;
+    color: white;
+}
+.of{
+    width: 50px;
+    position:relative;
+    top: 35px;
+    background-color: blue;
+}
+.of:active{
+    position: relative;
+    top: 100px;
+    background-color: white;
+    color: white;
+    right: 300px;
+}
+
+.on:active{
+    background-color: green;
+    border: 1px solid green;
+}
+.vy{
+    background-color: transparent;
+    color: transparent;
+}
+.og{
+    width: 50px;
+    position:relative;
+    background-color: transparent;
+    color: transparent;
+    right: 50px;
+}
+.og:active{
+    position: relative;
+    background-color: green;
+    color: white;
+    right: 50px;
+}
+.on:active{
+    background-color: green;
+    border: 1px solid green;
+}
